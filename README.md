@@ -25,3 +25,8 @@ almost every day with values such as temperature, wind speed, snow, global radia
 # Systems Used
 
 Anaconda/Jupyter Notebook: For Machine learning and Model Optimization, aswell as analysis tool
+
+# Link
+
+Youtube Presentation Link – https://www.youtube.com/watch?v=w6kdI0n3TSc
+
